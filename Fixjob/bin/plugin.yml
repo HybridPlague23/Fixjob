@@ -1,0 +1,9 @@
+main: me.HybridPlague.Fixjob.Main
+name: Fixjob
+version: 1.0
+author: HybridPlague
+api-version: 1.13
+depend: [Vault]
+
+commands:
+  FixJob:
